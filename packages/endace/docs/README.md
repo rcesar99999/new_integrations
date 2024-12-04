@@ -418,7 +418,6 @@ An example event for `flow` looks as following:
     },
     "type": "flow"
 }
-
 ```
 
 ## Licensing for Windows Systems
